@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<File xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Solution" id="c1bb91ba-8f2c-4b06-95f2-8afd9821ca90" name="ASCUE_scada" creationDateTime="2025-04-03T07:34:46.7950404Z" changeDateTime="2025-05-21T09:47:58.247204Z">
+<File xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Solution" id="c1bb91ba-8f2c-4b06-95f2-8afd9821ca90" name="ASCUE_scada" creationDateTime="2025-04-03T07:34:46.7950404Z" changeDateTime="2025-05-21T10:11:11.3495868Z">
   <properties>
     <VersionProperty>
       <parameters>

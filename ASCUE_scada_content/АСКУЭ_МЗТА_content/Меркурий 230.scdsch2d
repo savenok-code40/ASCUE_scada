@@ -243,59 +243,6 @@
           </FontProperty>
         </properties>
       </Child>
-      <Child xsi:type="ElementModel" id="e1eb1ee1-2105-4183-a27a-68f82a485f96" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
-        <properties>
-          <CommonProperty>
-            <parameters>
-              <StringParameter name="Name" value="Текст 59" />
-            </parameters>
-            <ChildProperties />
-            <n>Common</n>
-          </CommonProperty>
-          <TransformProperty>
-            <parameters>
-              <NFloatParameter name="X" value="56.65" />
-              <NFloatParameter name="Y" value="31.7" />
-              <NFloatParameter name="Width" value="7.5" />
-              <NFloatParameter name="Height" value="3.5" />
-              <NFloatParameter name="Length" value="0.01" />
-              <NFloatParameter name="WidthDefault" value="3" />
-              <NFloatParameter name="LengthDefault" value="0.01" />
-            </parameters>
-            <ChildProperties />
-            <n>Transform</n>
-            <Events />
-            <MinWidth>0</MinWidth>
-            <MinHeight>0</MinHeight>
-          </TransformProperty>
-          <BackgroundProperty>
-            <parameters>
-              <StringParameter name="Color" value="DFE0E5" />
-              <NBoolParameter name="FillState" value="True" />
-            </parameters>
-            <ChildProperties />
-            <n>Background</n>
-            <Events />
-          </BackgroundProperty>
-          <BorderProperty>
-            <parameters>
-              <StringParameter name="Color" value="000000" />
-              <NBoolParameter name="FillState" value="True" />
-            </parameters>
-            <ChildProperties />
-            <n>Border</n>
-            <Events />
-          </BorderProperty>
-          <FontProperty>
-            <parameters>
-              <NFloatParameter name="Size" value="10" />
-            </parameters>
-            <ChildProperties />
-            <n>Font</n>
-            <Events />
-          </FontProperty>
-        </properties>
-      </Child>
       <Child xsi:type="ElementModel" id="25233be6-1c8c-458f-a150-06a5df678ed3" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
         <properties>
           <CommonProperty>
@@ -795,9 +742,9 @@
           </CommonProperty>
           <TransformProperty>
             <parameters>
-              <NFloatParameter name="X" value="64.19999" />
+              <NFloatParameter name="X" value="56.65" />
               <NFloatParameter name="Y" value="31.7" />
-              <NFloatParameter name="Width" value="7.5" />
+              <NFloatParameter name="Width" value="22.6" />
               <NFloatParameter name="Height" value="3.5" />
               <NFloatParameter name="Length" value="0.01" />
               <NFloatParameter name="WidthDefault" value="3" />
@@ -903,59 +850,6 @@
             <parameters>
               <NFloatParameter name="X" value="64.19999" />
               <NFloatParameter name="Y" value="38.8" />
-              <NFloatParameter name="Width" value="7.5" />
-              <NFloatParameter name="Height" value="3.5" />
-              <NFloatParameter name="Length" value="0.01" />
-              <NFloatParameter name="WidthDefault" value="3" />
-              <NFloatParameter name="LengthDefault" value="0.01" />
-            </parameters>
-            <ChildProperties />
-            <n>Transform</n>
-            <Events />
-            <MinWidth>0</MinWidth>
-            <MinHeight>0</MinHeight>
-          </TransformProperty>
-          <BackgroundProperty>
-            <parameters>
-              <StringParameter name="Color" value="DFE0E5" />
-              <NBoolParameter name="FillState" value="True" />
-            </parameters>
-            <ChildProperties />
-            <n>Background</n>
-            <Events />
-          </BackgroundProperty>
-          <BorderProperty>
-            <parameters>
-              <StringParameter name="Color" value="000000" />
-              <NBoolParameter name="FillState" value="True" />
-            </parameters>
-            <ChildProperties />
-            <n>Border</n>
-            <Events />
-          </BorderProperty>
-          <FontProperty>
-            <parameters>
-              <NFloatParameter name="Size" value="10" />
-            </parameters>
-            <ChildProperties />
-            <n>Font</n>
-            <Events />
-          </FontProperty>
-        </properties>
-      </Child>
-      <Child xsi:type="ElementModel" id="536b8175-bfdb-4673-8f11-d2e1b164c700" typeId="4824b05a-8a87-4a47-8e16-4cc1008b112d">
-        <properties>
-          <CommonProperty>
-            <parameters>
-              <StringParameter name="Name" value="Текст 72" />
-            </parameters>
-            <ChildProperties />
-            <n>Common</n>
-          </CommonProperty>
-          <TransformProperty>
-            <parameters>
-              <NFloatParameter name="X" value="71.74999" />
-              <NFloatParameter name="Y" value="31.7" />
               <NFloatParameter name="Width" value="7.5" />
               <NFloatParameter name="Height" value="3.5" />
               <NFloatParameter name="Length" value="0.01" />
