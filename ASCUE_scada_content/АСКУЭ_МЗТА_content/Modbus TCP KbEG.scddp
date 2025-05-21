@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="DataProviderFile" id="78fbd55a-c6cc-44f0-b4cd-4f91910459f0" type="Modbus">
+  <properties>
+    <VersionProperty>
+      <parameters>
+        <StringParameter name="Version" value="v4.1.0.13" />
+      </parameters>
+      <ChildProperties />
+      <n>Version</n>
+    </VersionProperty>
+    <ModBusProviderProperty>
+      <parameters>
+        <StringParameter name="IpAddress" value="192.168.30.101" />
+      </parameters>
+      <ChildProperties />
+      <n>ModbusDataProvider</n>
+    </ModBusProviderProperty>
+    <DataProviderVariablesIsUsedByClientProperty>
+      <parameters>
+        <BoolParameter name="VariablesIsUsedByClient" value="True" />
+      </parameters>
+      <ChildProperties />
+      <n>DataProviderVariablesIsUsedByClient</n>
+    </DataProviderVariablesIsUsedByClientProperty>
+  </properties>
+  <variables />
+</File>

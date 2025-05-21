@@ -1,0 +1,6 @@
+﻿Hash;Pseudonym;DataPointClass;DataType;IsRecommendation;IsEvent;Aperture;Measure;DecimalPlaces;IgnoreEqualValues;ArrayDimensions;ArrayDataType;UserStruct;IsChildOfVariable;NestingLevel;IsUsedByClient
+1.X3.00;1.X3.00;InOut;INT;False;False;0;;0;True;0;BOOL;;False;0;True
+1.X3.01;1.X3.01;InOut;INT;False;False;0;;0;True;0;BOOL;;False;0;True
+1.X3.02;1.X3.02;InOut;INT;False;False;0;;0;True;0;BOOL;;False;0;True
+1.X3.04;1.X3.04;InOut;INT;False;False;0;;0;True;0;BOOL;;False;0;True
+1.X3.03;1.X3.03;InOut;INT;False;False;0;;0;True;0;BOOL;;False;0;True

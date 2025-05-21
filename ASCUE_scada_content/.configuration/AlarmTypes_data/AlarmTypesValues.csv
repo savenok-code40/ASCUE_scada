@@ -1,0 +1,6 @@
+﻿CategoryName;BackgroundColor;TextColor;ImportanceFrom;ImportanceTo;SoundSignal
+Критическая тревога;FF3232;000000;0;250;alert
+Тревога;FF9B00;000000;251;500;alert_short
+Предупреждение;FFFF00;000000;501;750;blink
+Событие;00FF00;000000;751;1000;
+Прочее событие;FFFFFF;000000;1001;2147483647;
